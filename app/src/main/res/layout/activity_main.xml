@@ -22,7 +22,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Team A"
+                android:text="@string/teamA"
                 android:layout_margin="24dp"
                 android:layout_gravity="center_horizontal" />
 
@@ -30,7 +30,7 @@
                 android:id="@+id/TVscoreA"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="0"
+                android:text="@string/inicont"
                 android:layout_gravity="center_horizontal"
                 android:textSize="40sp"
                 android:paddingTop="20sp" />
@@ -39,7 +39,7 @@
                 android:id="@+id/B1A"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+1"
+                android:text="@string/plus1"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="30dp" />
 
@@ -47,7 +47,7 @@
                 android:id="@+id/B2A"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+2"
+                android:text="@string/plus2"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="5dp" />
 
@@ -55,7 +55,7 @@
                 android:id="@+id/B3A"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+3"
+                android:text="@string/plus3"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="5dp" />
 
@@ -70,7 +70,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Team B"
+                android:text="@string/teamB"
                 android:layout_margin="24dp"
                 android:layout_gravity="center_horizontal" />
 
@@ -78,7 +78,7 @@
                 android:id="@+id/TVscoreB"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="0"
+                android:text="@string/inicont"
                 android:layout_gravity="center_horizontal"
                 android:textSize="40sp"
                 android:paddingTop="20sp" />
@@ -87,7 +87,7 @@
                 android:id="@+id/B1B"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+1"
+                android:text="@string/plus1"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="30dp" />
 
@@ -95,7 +95,7 @@
                 android:id="@+id/B2B"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+2"
+                android:text="@string/plus2"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="5dp" />
 
@@ -103,7 +103,7 @@
                 android:id="@+id/B3B"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+3"
+                android:text="@string/plus3"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="5dp" />
 
@@ -122,7 +122,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="30dp"
             android:layout_gravity="center_horizontal"
-            android:text="RESET"/>
+            android:text="@string/reset"/>
 
         <TextView
             android:layout_width="wrap_content"

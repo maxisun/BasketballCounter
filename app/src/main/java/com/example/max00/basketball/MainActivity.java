@@ -8,15 +8,15 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView scoreA;
-    TextView scoreB;
-    Button B1A;
-    Button B2A;
-    Button B3A;
-    Button B1B;
-    Button B2B;
-    Button B3B;
-    Button reset;
+    private TextView scoreA;
+    private TextView scoreB;
+    private Button B1A;
+    private Button B2A;
+    private Button B3A;
+    private Button B1B;
+    private Button B2B;
+    private Button B3B;
+    private Button reset;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
